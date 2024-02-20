@@ -127,6 +127,12 @@
       "type": "free"
     },
     {
+      "localization_name": "Jp_Emperor",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SkinA022.png",
+      "type": "free"
+    },
+    {
       "localization_name": "Jp_Blusa1",
       "geometry": "geometry.humanoid.custom",
       "texture": "SkinB001.png",
