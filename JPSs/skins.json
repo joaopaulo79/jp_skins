@@ -1,0 +1,348 @@
+{
+  "skins": [
+    {
+      "localization_name": "Jp_Classic",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SkinA001.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jp_King",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SkinA002.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jp_Agiota",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SkinA003.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jp_Praiano",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SkinA004.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jp_Drip",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SkinA005.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jp_Blue_Gradient",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "SkinA006.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jp_Spark",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SkinA007.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jp_Selecao",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "SkinA008.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jp_Romantic",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "SkinA009.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jp_Detetive",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "SkinA010.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jp_Noel",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SkinA011.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jp_Pijama_Creeper",
+      "geometry": "geometry.humanoid.custom",
+      "texture":"SkinA012.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jp_YinYang",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SkinA013.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jp_Color_Off",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SkinA014.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jp_Abobora",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SkinA015.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jp_Papel",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SkinA016.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jp_Mascara_Abobora",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "SkinA017.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jp_Roupa_Social",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "SkinA018.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jp_Roupa_Social_Papel",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "SkinA019.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jp_Roupa_Social2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SkinA020.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jp_Tubarao",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "SkinA021.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jp_Blusa1",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SkinB001.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jp_Blusa2",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "SkinB002.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jp_Blusa3",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "SkinB003.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jp_Kaiba",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SkinC001.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jp_Akatsuki",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SkinC002.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jp_Savitar",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SkinC003.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jpniccius13",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SkinC004.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jp_Militar",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SkinC005.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jp_PM",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SkinC006.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jp_Subaru",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "SkinM001.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jp_Tomioka",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "SkinM002.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jp_Girl",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "SkinP001.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jp_Gura",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "SkinP002.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jp_Pink_Bunny",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "SkinP003.png",
+      "type":"free"
+    },
+    {
+      "localization_name": "Iron_Man",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SkinQ001.png",
+      "type":"free"
+    },
+    {
+      "localization_name": "Watermelon_Time",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "SkinQ002.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ghost_Girl",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "SkinQ003.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Captain_Cutler",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SkinQ004.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ghost_Boy",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SkinQ005.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ghost_Robes",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SkinQ006.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "3d_Creeper",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SkinQ007.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Necromancer",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SkinQ008.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Mythic_Fire",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "SkinQ009.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Neko_Maid",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "SkinQ010.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Aqua_Konosuba",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture":"SkinQ011.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Sakurajima_Mai",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "SkinQ012.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Makima",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "SkinQ014.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ZeroTwo",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "SkinQ015.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Rem",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "SkinQ016.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Emilia",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "SkinQ017.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cute_Girl",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "SkinQ018.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Nakano_Miku",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "SkinQ019.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Nakano_Nino",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "SkinQ020.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Zenitsu_Genderbend",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "SkinQ021.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Zenitsu",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "SkinQ022.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Anya_Forger",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "SkinQ023.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "JPSs",
+  "localization_name": "JPSs"
+}

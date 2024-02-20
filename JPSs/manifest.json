@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Skins do JP [JPS]",
+        "name": "JPS[V2]",
+        "uuid": "19FA62E0-3031-41A8-91D0-4779AB7A7DB5", 
+        "version": [0, 1, 4],
+        "min_engine_version": [1, 2, 6]
+    },
+    "modules": [
+        {
+            "description": "Compiled and remixed by Jp3plays1968.",
+            "type": "skin_pack",
+            "uuid": "FFBD266D-2493-4AB9-9A23-4B07208947BB",
+            "version": [0, 1, 4]
+        }
+    ]
+}
